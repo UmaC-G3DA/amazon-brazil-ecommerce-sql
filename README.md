@@ -85,7 +85,7 @@ I analysed five relational tables and worked through 19 business questions using
 │   ├── Data_Analysis_using_SQL-_caase_study.docx
 │   └── Amazonbrazil_Analysis_UMA_C_-G3_DASQL_.docx
 └── data/
-    └── Brazilian e-commerce datasets
+    └── Dataset .csv files
 ```
 
 ## How to Run
