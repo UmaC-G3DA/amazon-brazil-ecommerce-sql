@@ -4,7 +4,7 @@
 
 This project explores business questions framed around Amazon India using Brazilian e-commerce data to analyse payment behaviour, product performance, customer purchasing patterns and sales trends.
 
-I analysed five relational tables and worked through 19 business questions using MySQL, progressing from basic queries to advanced SQL techniques.All monetary values are expressed in BRL.
+I analysed five relational tables and worked through business questions using MySQL, progressing from basic queries to advanced SQL techniques.All monetary values are expressed in BRL.
 
 ## Business Objectives
 
